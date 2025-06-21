@@ -34,7 +34,7 @@ Pastikan Anda telah menginstal:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone <URL_REPO_ANDA> nama-aplikasi-kendaraan
+    git clone https://github.com/fixronmaulana/monitoring-kendaraan.git nama-aplikasi-kendaraan
     cd nama-aplikasi-kendaraan
     ```
     *Jika Anda membuat dari awal seperti panduan ini, lewati langkah ini dan lanjutkan dari langkah 2.*
