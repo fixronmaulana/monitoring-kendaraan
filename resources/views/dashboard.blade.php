@@ -31,7 +31,6 @@
         </div>
     </div>
 
-    {{-- Hapus seluruh blok @push('scripts') dan ganti dengan ini --}}
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             // Panggil fungsi yang di-ekspor dari dashboardChart.js
